@@ -1,6 +1,5 @@
 1.Initializing a new repository:
 bash
-
 git init
 
 2.Clone a repository:

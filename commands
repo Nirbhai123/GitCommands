@@ -74,3 +74,10 @@ git config --global user.email "your.email@example.com"
 bash
 git diff > patchfile    # Create a patch
 git apply < patchfile   # Apply a patch
+
+18.Delete the file
+bash
+git rm filename
+git add .
+git commit -m our message
+git push origin branch-name 

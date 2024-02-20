@@ -81,3 +81,6 @@ git rm filename
 git add .
 git commit -m our message
 git push origin branch-name 
+
+how to delete a branch
+git push origin --delete branch-name
